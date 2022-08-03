@@ -1,1 +1,1 @@
-# auth_next
+packages/next-auth/README.md
